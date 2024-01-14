@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/toolkytudong/static/css/main.e6c13ad2.css",
+    "main.js": "/toolkytudong/static/js/main.b7db877c.js",
+    "static/js/787.40db3e59.chunk.js": "/toolkytudong/static/js/787.40db3e59.chunk.js",
+    "index.html": "/toolkytudong/index.html",
+    "main.e6c13ad2.css.map": "/toolkytudong/static/css/main.e6c13ad2.css.map",
+    "main.b7db877c.js.map": "/toolkytudong/static/js/main.b7db877c.js.map",
+    "787.40db3e59.chunk.js.map": "/toolkytudong/static/js/787.40db3e59.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b7db877c.js"
+  ]
+}
